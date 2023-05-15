@@ -56,7 +56,7 @@
 }
 
 .owl-controls a:hover {
-  color: #336699;
+  color: #197c03;
 }
 
 .owl-controls .bg-prev {
@@ -65,7 +65,7 @@
   width: 50px;
   height: 50px;
   z-index:10; 
-  background:#fff; 
+  background:#1a0227; 
   border: 1px solid #336699;
   -webkit-transform: rotate(45deg);
   -moz-transform: rotate(45deg);
