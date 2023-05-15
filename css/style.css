@@ -202,11 +202,18 @@ a:hover { color: #FF0; }
 }
 
 .baner-content span {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   display: inline-block;
   margin-top: -20px;
   font-weight: 300;
-  font-size: 48px;
-  color: #262607;
+  font-size: 60px;
+  color: #f8fbfc;
+  background-color: #1a0431;
+  border-radius:4% ;
+  opacity: 60%;
+ padding-left: 50px;
+ padding-right: 50px;
+ 
 }
 
 .baner-content .primary-button {
